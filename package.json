@@ -22,7 +22,7 @@
 		"react-router-dom": "^7.14.0",
 		"drizzle-orm": "^0.45.2",
 		"dotenv": "^17.4.0",
-		"zod": "^3.24.4",
+		"zod": "^4.6.7",
 		"qrcode.react": "latest",
 		"lucide-react": "^0.383.0",
 		"hono": "^4.12.23",
@@ -41,7 +41,7 @@
 		"vite": "^8.0.3",
 		"drizzle-kit": "^0.31.10",
 		"tsx": "^4.21.0",
-		"vitest": "~3.2.0",
+		"vitest": "~5.0.5",
 		"wrangler": "^4.97.0"
 	}
 }
